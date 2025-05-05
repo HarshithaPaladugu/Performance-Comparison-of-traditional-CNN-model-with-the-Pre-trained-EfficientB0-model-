@@ -1,8 +1,6 @@
 # Performance-Comparison-of-traditional-CNN-model-with-the-Pre-trained-EfficientB0-model-
 This projects aims to evaluate the performance of traditional CNN and pre-trained EfficientNetB0 model in detecting the health status of chili leaf 
-Here's a **README.md** content tailored for your GitHub repository based on your methodology and comparison of CNN and EfficientNetB0 models using confusion matrix, sensitivity, and precision-recall values:
 
----
 
 # 🌿 Chilli Plant Leaf Disease Classification using CNN & EfficientNetB0
 
