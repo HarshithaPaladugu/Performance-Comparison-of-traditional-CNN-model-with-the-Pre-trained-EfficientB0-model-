@@ -106,10 +106,7 @@ The EfficientNetB0 model significantly outperformed the traditional CNN model ac
    pip install -r requirements.txt
    ```
 
-3. Run Jupyter Notebooks:
-
-   * `cnn_model.ipynb` for traditional CNN
-   * `efficientnet_model.ipynb` for EfficientNetB0
+3. Run Jupyter Notebook
 
 ---
 
