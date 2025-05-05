@@ -78,37 +78,9 @@ The EfficientNetB0 model significantly outperformed the traditional CNN model ac
 
 ---
 
-## 🗂️ Repository Structure
 
-```
-├── dataset/                    # Folder containing the chilli leaf images
-├── cnn_model.ipynb            # CNN model training and evaluation
-├── efficientnet_model.ipynb   # EfficientNetB0 model training and evaluation
-├── results/                   # Confusion matrices, plots, evaluation results
-├── utils/                     # Helper functions and preprocessing scripts
-├── README.md                  # Project overview
-```
 
----
 
-## 🧪 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/leaf-disease-classification.git
-   cd leaf-disease-classification
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run Jupyter Notebook
-
----
 
 ## 📝 Conclusion
 
