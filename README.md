@@ -2,7 +2,7 @@
 This projects aims to evaluate the performance of traditional CNN and pre-trained EfficientNetB0 model in detecting the health status of chili leaf 
 
 
-# 🌿 Chilli Plant Leaf Disease Classification using CNN & EfficientNetB0
+# 🌿 Chili Plant Leaf Disease Classification using CNN & EfficientNetB0
 
 This repository contains the code and methodology for classifying chilli plant leaf health status using image-based deep learning models. The project compares the performance of a traditional Convolutional Neural Network (CNN) with a pretrained EfficientNetB0 model.
 
